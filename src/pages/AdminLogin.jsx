@@ -32,7 +32,6 @@ export default function AdminLogin() {
             <img src="/logo-simpress.png" alt="Simpress" className="logo-img" />
             <span className="logo-hp">an HP Company</span>
           </div>
-          <img src="/logo-grupo-sada.png" alt="Grupo SADA" className="logo-img logo-sada" />
         </div>
         <h2>Registro de Notebooks</h2>
         <p className="subtitle">Entre com suas credenciais de administrador</p>

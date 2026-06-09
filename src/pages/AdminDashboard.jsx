@@ -35,7 +35,7 @@ function showBrowserNotification(title, body) {
 function Toast({ message, onClose }) {
   useEffect(() => {
     playNotificationSound()
-    showBrowserNotification('SADA - Novo Registro', message)
+    showBrowserNotification('Novo Registro', message)
     const t = setTimeout(onClose, 6000)
     return () => clearTimeout(t)
   }, [onClose])

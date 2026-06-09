@@ -122,10 +122,6 @@ body {
   object-fit: contain;
 }
 
-.login-card .logo-sada {
-  height: 88px;
-  margin-top: -14px;
-}
 
 .login-card .logo-simpress-wrapper, .form-card .logo-simpress-wrapper {
   display: flex;
